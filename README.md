@@ -2,6 +2,7 @@
 
 ResumeMind is a modern **AI-driven web application** that analyzes resumes (PDF) and recommends suitable job roles based on skills, experiences, and keywords.  
 It leverages **Google Gemini AI** (and optionally OpenAI GPT) for semantic analysis, providing users with accurate and insightful career guidance.
+
 ---
 ## 🔑 Core Tech Badges
 
@@ -18,10 +19,7 @@ It leverages **Google Gemini AI** (and optionally OpenAI GPT) for semantic analy
 ![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
-
-
-
-
+---
 ## 🚀 Key Features
 - 📂 **Drag & Drop Resume Upload** – Simple and user-friendly interface.  
 - 🤖 **AI-Powered Role Recommendations** – Matches your skills with relevant job roles.  
@@ -94,17 +92,6 @@ streamlit run app.py
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
-
-## 📸 Screenshots
-
-*(Add images of your app inside the `assets/` folder and reference them here)*
-
-* **Resume Upload Screen**
-* **AI Role Recommendations**
-* **Feedback & Skill Insights**
-
----
-
 ## 🧪 Example Output
 
 **Input:** Software Engineer Resume (PDF)
@@ -154,6 +141,7 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 * **Google Gemini AI** for semantic intelligence.
 * **Streamlit** for an elegant frontend.
 * **Python Open Source Community** for powerful libraries.
+
 
 
 
