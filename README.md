@@ -143,18 +143,6 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions!
-
-1. Fork the repo
-2. Create a new branch (`feature/awesome-feature`)
-3. Commit changes (`git commit -m 'Add awesome feature'`)
-4. Push to branch (`git push origin feature/awesome-feature`)
-5. Create a Pull Request
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** – free to use, modify, and distribute.
@@ -166,6 +154,7 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 * **Google Gemini AI** for semantic intelligence.
 * **Streamlit** for an elegant frontend.
 * **Python Open Source Community** for powerful libraries.
+
 
 
 
