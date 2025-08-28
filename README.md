@@ -1,10 +1,26 @@
-
 # ResumeMind – AI-Powered Role Recommendation Tool
 
 ResumeMind is a modern **AI-driven web application** that analyzes resumes (PDF) and recommends suitable job roles based on skills, experiences, and keywords.  
 It leverages **Google Gemini AI** (and optionally OpenAI GPT) for semantic analysis, providing users with accurate and insightful career guidance.
-
 ---
+## 🔑 Core Tech Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white)
+![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT-412991?logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=orange)
+![dotenv](https://img.shields.io/badge/dotenv-ECB22E?logo=dotenv&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
+
+
+
 
 ## 🚀 Key Features
 - 📂 **Drag & Drop Resume Upload** – Simple and user-friendly interface.  
@@ -153,4 +169,3 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 
 
 
-`
