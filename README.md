@@ -52,7 +52,7 @@ resumemind
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation & Setup 🛠️
 
 ### 1. Clone the Repository
 ```bash
@@ -141,6 +141,7 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 * **Google Gemini AI** for semantic intelligence.
 * **Streamlit** for an elegant frontend.
 * **Python Open Source Community** for powerful libraries.
+
 
 
 
