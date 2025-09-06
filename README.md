@@ -1,4 +1,4 @@
-# ResumeMind – AI-Powered Role Recommendation Tool
+# 🫵ResumeMind – AI-Powered Role Recommendation Tool
 
 ResumeMind is a modern **AI-driven web application** that analyzes resumes (PDF) and recommends suitable job roles based on skills, experiences, and keywords.  
 It leverages **Google Gemini AI** (and optionally OpenAI GPT) for semantic analysis, providing users with accurate and insightful career guidance.
@@ -141,6 +141,7 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 * **Google Gemini AI** for semantic intelligence.
 * **Streamlit** for an elegant frontend.
 * **Python Open Source Community** for powerful libraries.
+
 
 
 
